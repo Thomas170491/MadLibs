@@ -1,0 +1,14 @@
+/home/thomas/Desktop/MadLibs/bin/Debug/net8.0/MadLibs
+/home/thomas/Desktop/MadLibs/bin/Debug/net8.0/MadLibs.deps.json
+/home/thomas/Desktop/MadLibs/bin/Debug/net8.0/MadLibs.runtimeconfig.json
+/home/thomas/Desktop/MadLibs/bin/Debug/net8.0/MadLibs.dll
+/home/thomas/Desktop/MadLibs/bin/Debug/net8.0/MadLibs.pdb
+/home/thomas/Desktop/MadLibs/obj/Debug/net8.0/MadLibs.GeneratedMSBuildEditorConfig.editorconfig
+/home/thomas/Desktop/MadLibs/obj/Debug/net8.0/MadLibs.AssemblyInfoInputs.cache
+/home/thomas/Desktop/MadLibs/obj/Debug/net8.0/MadLibs.AssemblyInfo.cs
+/home/thomas/Desktop/MadLibs/obj/Debug/net8.0/MadLibs.csproj.CoreCompileInputs.cache
+/home/thomas/Desktop/MadLibs/obj/Debug/net8.0/MadLibs.dll
+/home/thomas/Desktop/MadLibs/obj/Debug/net8.0/refint/MadLibs.dll
+/home/thomas/Desktop/MadLibs/obj/Debug/net8.0/MadLibs.pdb
+/home/thomas/Desktop/MadLibs/obj/Debug/net8.0/MadLibs.genruntimeconfig.cache
+/home/thomas/Desktop/MadLibs/obj/Debug/net8.0/ref/MadLibs.dll
